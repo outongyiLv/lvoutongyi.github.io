@@ -17,7 +17,7 @@ I have written some blogs about Machine Learning and Reinforcement Learning, you
 [CSDN](https://blog.csdn.net/lvoutongyi?spm=1000.2115.3001.5343), you can get my personal academic home page here: [Google](https://scholar.google.com.hk/citations?hl=zh-CN&user=1ZFUKEIAAAAJ).
 
 
-I used to be an intern at Baidu (China)(Knowledge Graph Department). I Combine Reinforcement Learning to fine-tune 
+I used to be an intern at Baidu (China) (Knowledge Graph Department). I Combine Reinforcement Learning to fine-tune 
 the ERNIE Model. Also, I did a large-scale path planning problem (CVRP) in the RL direction in Baidu.
 
 Awards

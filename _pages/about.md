@@ -44,7 +44,7 @@ You can find them in my scholar.
 2. Accurate and Definite Mutational Effect Prediction with Lightweight Equivariant Graph Neural Networks 2023.
 3. Lightweight Equivariant Graph Representation Learning for Protein Engineering 2022.
 
-Welcome to contact me! here is my [Email](harry_lv@sjtu.edu.cn).
+Welcome to contact me! Here is my email: harry_lv@sjtu.edu.cn.
 
 
 

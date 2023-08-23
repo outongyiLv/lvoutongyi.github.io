@@ -11,7 +11,7 @@ title                    : "Outongyi Lv/ Homepage"
 title_separator          : "-"
 name                     : &name "Outongyi Lv"
 description              : &description "Ph.D. student in Shanghai Jiaotong University"
-url                      : https://outongyilv.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://lvoutongyi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "outongyiLv/lvoutongyi.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -85,8 +85,8 @@ author:
   bio              : "Shanghai Jiaotong University"
   location         : "China Shanghai"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com.hk/citations?hl=zh-CN&user=1ZFUKEIAAAAJ"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"https://scholar.google.com.hk/citations?hl=zh-CN&user=1ZFUKEIAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :

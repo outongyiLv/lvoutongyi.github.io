@@ -8,9 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Educational experience
-======
 I got my bachelor's degree in Mathematics from Northeastern University (China) in 2022. I am now a direct Ph.D. student at the School of Mathematical Sciences and the Institute of Natural Sciences of Shanghai Jiaotong University.  My research field mainly focuses on Deep Learning, especially Deep Reinforcement Learning. By the way, I am also interested in algorithms and theories in Machine Learning.
+
 
 Homepage
 ======

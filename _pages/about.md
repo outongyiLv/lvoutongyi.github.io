@@ -45,7 +45,7 @@ Welcome to contact me by email here: harry_lv@sjtu.edu.cn.
 
 Publications
 ======
-1. Lv O, Zhou B, Wang Y G. LLQL: Logistic Likelihood Q-Learning for Reinforcement Learning[J]. arXiv preprint arXiv:2307.02345, 2023. [Paper](https://arxiv.org/abs/2307.02345)
+1. Lv O, Zhou B. LLQL: Logistic Likelihood Q-Learning for Reinforcement Learning[J]. arXiv preprint arXiv:2307.02345, 2023. [Paper](https://arxiv.org/abs/2307.02345)
 2. Zhou B, Lv O, Yi K, et al. Accurate and Definite Mutational Effect Prediction with Lightweight Equivariant Graph Neural Networks[J]. arXiv preprint arXiv:2304.08299, 2023. [Paper](https://arxiv.org/abs/2304.08299)
 3. Zhou B, Lv O, Yi K, et al. Lightweight Equivariant Graph Representation Learning for Protein Engineering[J]. 2022.[Paper](https://ins.sjtu.edu.cn/people/lhong/papers/articles/LGN-NeurIPS2022-Lightweight%20Equivariant%20Graph%20Representation%20Learning%20for%20Protein%20Engineering.pdf)
 

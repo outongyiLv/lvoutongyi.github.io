@@ -45,9 +45,11 @@ Welcome to contact me by email here: harry_lv@sjtu.edu.cn.
 
 Publications
 ======
-1. Lv O, Zhou B. LLQL: Logistic Likelihood Q-Learning for Reinforcement Learning[J]. arXiv preprint arXiv:2307.02345, 2023. [Paper](https://arxiv.org/abs/2307.02345)
-2. Zhou B, Lv O, Yi K, et al. Accurate and Definite Mutational Effect Prediction with Lightweight Equivariant Graph Neural Networks[J]. arXiv preprint arXiv:2304.08299, 2023. [Paper](https://arxiv.org/abs/2304.08299)
-3. Zhou B, Lv O, Yi K, et al. Lightweight Equivariant Graph Representation Learning for Protein Engineering[J]. 2022.[Paper](https://ins.sjtu.edu.cn/people/lhong/papers/articles/LGN-NeurIPS2022-Lightweight%20Equivariant%20Graph%20Representation%20Learning%20for%20Protein%20Engineering.pdf)
+1. Lv O, Zhou B, Wang J, et al. A unified view on neural message passing with opinion dynamics for social networks[J]. arXiv preprint arXiv:2310.01272, 2023. [Paper](https://arxiv.org/abs/2310.01272)
+2. Lv O, Zhou B. LLQL: Logistic Likelihood Q-Learning for Reinforcement Learning[J]. arXiv preprint arXiv:2307.02345, 2023. [Paper](https://arxiv.org/abs/2307.02345)
+3. Zhou B, Zheng L, Wu B, et al. Protein engineering with lightweight graph denoising neural networks[J]. bioRxiv, 2023: 2023.11. 05.565665. [Paper](https://www.biorxiv.org/content/10.1101/2023.11.05.565665v1.abstract)
+4. Zhou B, Lv O, Yi K, et al. Accurate and Definite Mutational Effect Prediction with Lightweight Equivariant Graph Neural Networks[J]. arXiv preprint arXiv:2304.08299, 2023. [Paper](https://arxiv.org/abs/2304.08299)
+5. Zhou B, Lv O, Yi K, et al. Lightweight Equivariant Graph Representation Learning for Protein Engineering[J]. 2022.[Paper](https://ins.sjtu.edu.cn/people/lhong/papers/articles/LGN-NeurIPS2022-Lightweight%20Equivariant%20Graph%20Representation%20Learning%20for%20Protein%20Engineering.pdf)
 
 
 

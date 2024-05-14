@@ -8,52 +8,57 @@ redirect_from:
   - /about.html
 ---
 
-I got my bachelor's degree in Mathematics from Northeastern University (China) in 2022. I am now a direct Ph.D. student at the School of Mathematical Sciences and the Institute of Natural Sciences of Shanghai Jiao Tong University.  My research field mainly focuses on Deep Learning, especially Deep Reinforcement Learning. By the way, I am also interested in algorithms and theories in Machine Learning.
+
+I earned my Bachelor of Mathematics degree from Northeastern University (China) in 2022. I am currently pursuing a direct Ph.D. at the School of Mathematical Sciences and the Institute of Natural Sciences, Shanghai Jiao Tong University. My research centers on Deep Learning, with a special emphasis on Deep Reinforcement Learning. Additionally, I have a keen interest in Machine Learning algorithms and theories.
 
 
 Homepage
 ======
-I have written some blogs about Machine Learning and Reinforcement Learning, you can find them on my CSDN page:
-[CSDN](https://blog.csdn.net/lvoutongyi?spm=1000.2115.3001.5343), I also have my own scholar, you can get my personal academic home page here: [Google](https://scholar.google.com.hk/citations?hl=zh-CN&user=1ZFUKEIAAAAJ).
+Welcome to my homepage! I have authored several blogs covering topics in Machine Learning, Reinforcement Learning, and Mathematics, which you can explore on my CSDN profile: [CSDN](https://blog.csdn.net/lvoutongyi?spm=1000.2115.3001.5343). For a comprehensive look at my academic contributions, please visit my Google Scholar profile here: [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=1ZFUKEIAAAAJ). 
+
+
 
 
 Intern
 ======
-I have interned at Baidu (China) (Knowledge Graph Department) to combine Reinforcement Learning to fine-tune 
-the ERNIE Model, I also did a large-scale path planning problem (CVRP) with multimodal training using RL in Baidu.
+1. Baidu (China): During my internship at Baidu (China) in the Knowledge Graph Department, I utilized Reinforcement Learning to fine-tune the ERNIE Model. Additionally, I addressed a large-scale path planning problem, the Capacitated Vehicle Routing Problem (CVRP), using multimodal training with Reinforcement Learning at Baidu.
+
+2. Microsoft Research Asia: I am currently an intern at the AI4Science department of Microsoft Research Asia. My primary focus is on integrating Reinforcement Learning with large language models.
 
 
 
-Awards
+Mathematical Modeling and Data Science Competitions
 ======
-1. The first prize in the Mathematical Modeling Contest in the Yangtze River Delta Region, 2022.
-2. The second prize in the Shuwei Cup International Undergraduate Modeling Contest 2021.
-3. The third prize in the National Big Data Competition for Chinese University 2021.
-4. The Provincial second prize in the National Mathematical Modeling Contest 2021.
-5. The Provincial third prize in the National Mathematical Modeling Contest 2020.
-6. The third prize in the National Undergraduate Mathematics Contest 2019.
-7. The Provincial second prize in the National Undergraduate Mathematics Contest 2019.
-8. The Outstanding Graduates of Liaoning Province 2022.
-9. The first Class Honor Scholarship in Northeastern University (China) 2019~2020.
-10. The first Class Named Honors Scholarship in Northeastern University (China) 2020.
-11. The second Class Named Honors Scholarship in Northeastern University (China) 2021~2022.
-12. The second Class Named Honors Scholarship in Northeastern University (China) 2019.
-13. The Outstanding Student of Northeastern University (China) 2019~2022.
+1. First Prize, Mathematical Modeling Contest, Yangtze River Delta Region, 2022.
+2. Second Prize, Shuwei Cup International Undergraduate Modeling Contest, 2021.
+3. Third Prize, National Big Data Competition for Chinese Universities, 2021.
+4. Second Prize, National Mathematical Modeling Contest (Provincial), 2021.
+5. Third Prize, National Mathematical Modeling Contest (Provincial), 2020.
+6. Second Prize, National Undergraduate Mathematics Contest (Provincial), 2019.
+7. Third Prize, National Undergraduate Mathematics Contest, 2019.
+   
 
-Welcome to contact me by email here: harry_lv@sjtu.edu.cn.
+Academic Scholarships and Recognitions:
+======
+1. Outstanding Graduate of Liaoning Province, 2022.
+2. First Class Honor Scholarship, Northeastern University, 2019-2020.
+3. Second Class Honor Scholarship, Northeastern University, 2021-2022.
+4. First Class Named Honors Scholarship, Northeastern University, 2020.
+5. Second Class Named Honors Scholarship, Northeastern University, 2019.
+6. Outstanding Student, Northeastern University, 2019-2022.
+
 
 
 Publications
 ======
-1. Lv O, Zhou B, Wang J, et al. A unified view on neural message passing with opinion dynamics for social networks[J]. arXiv preprint arXiv:2310.01272, 2023. [Paper](https://arxiv.org/abs/2310.01272)
-2. Lv O, Zhou B. LLQL: Logistic Likelihood Q-Learning for Reinforcement Learning[J]. arXiv preprint arXiv:2307.02345, 2023. [Paper](https://arxiv.org/abs/2307.02345)
-3. Zhou B, Zheng L, Wu B, et al. Protein engineering with lightweight graph denoising neural networks[J]. bioRxiv, 2023: 2023.11. 05.565665. [Paper](https://www.biorxiv.org/content/10.1101/2023.11.05.565665v1.abstract)
-4. Zhou B, Lv O, Yi K, et al. Accurate and Definite Mutational Effect Prediction with Lightweight Equivariant Graph Neural Networks[J]. arXiv preprint arXiv:2304.08299, 2023. [Paper](https://arxiv.org/abs/2304.08299)
-5. Zhou B, Lv O, Yi K, et al. Lightweight Equivariant Graph Representation Learning for Protein Engineering[J]. 2022.[Paper](https://ins.sjtu.edu.cn/people/lhong/papers/articles/LGN-NeurIPS2022-Lightweight%20Equivariant%20Graph%20Representation%20Learning%20for%20Protein%20Engineering.pdf)
+1. (2024) Lv O, Zhou B, Yang L F. Modeling Bellman Error with Logistic Distribution with Applications in Reinforcement Learning. Available at SSRN 4733708. (Accepted by Neural Networks.) [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4733708)
+2. (2023) Zhou B, Zheng L, Wu B, et al. Protein engineering with lightweight graph denoising neural networks. Journal of Chemical Information and Modeling, 2023. [paper](https://pubs.acs.org/doi/full/10.1021/acs.jcim.4c00036)
+3. (2023) Lv O, Zhou B, Wang J, et al. A unified view on neural message passing with opinion dynamics for social networks. arXiv preprint arXiv:2310.01272, 2023. [paper](https://arxiv.org/abs/2310.01272)
+4. (2023) Zhou B, Lv O, Yi K, et al. Accurate and Definite Mutational Effect Prediction with Lightweight Equivariant Graph Neural Networks. arXiv preprint arXiv:2304.08299, 2023. [paper](https://arxiv.org/abs/2304.08299)
+5. (2022) Zhou B, Lv O, Yi K, et al. Lightweight Equivariant Graph Representation Learning for Protein Engineering. NeurIPS workshop on Machine Learning in Structural Biology, 2022 [paper](https://openreview.net/pdf?id=IWoHx6bY4Zm)
 
 
 
 
-
-
+If you have any questions or require further information, please feel free to contact me via email at: harry_lv@sjtu.edu.cn.
 

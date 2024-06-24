@@ -51,7 +51,7 @@ Academic Scholarships and Recognitions:
 
 Publications
 ======
-1. (2024) Shen Y, Lv O, Zhu H, et al. ProteinEngine: Empower LLM with Domain Knowledge for Protein Engineering. International Conference of Artificial Intelligence in Medicine (AIME 2024) [paper](https://arxiv.org/pdf/2405.06658)
+1. (2024) Shen Y, Lv O, Zhu H, et al. ProteinEngine: Empower LLM with Domain Knowledge for Protein Engineering. 22nd International Conference on Artificial Intelligence in Medicine [paper](https://arxiv.org/pdf/2405.06658)
 2. (2024) Lv O, Zhou B, Yang L F. Modeling Bellman-error with logistic distribution with applications in reinforcement learning. Neural Networks, 2024, 177: 106387. [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4733708)
 3. (2023) Zhou B, Zheng L, Wu B, et al. Protein engineering with lightweight graph denoising neural networks. Journal of Chemical Information and Modeling, 2023. [paper](https://pubs.acs.org/doi/full/10.1021/acs.jcim.4c00036)
 4. (2023) Lv O, Zhou B, Wang J, et al. A unified view on neural message passing with opinion dynamics for social networks. arXiv preprint arXiv:2310.01272, 2023. [paper](https://arxiv.org/abs/2310.01272)

@@ -8,11 +8,12 @@ redirect_from:
   - /about.html
 ---
 
+About me
+======
+I earned my Bachelor of Mathematics degree from Northeastern University (China) in 2022. I am currently pursuing a direct Ph.D. at the School of Mathematical Sciences and the Institute of Natural Sciences, Shanghai Jiao Tong University. My research centers on deep learning, with a special emphasis on Deep Reinforcement Learning and its applications (combined with LLM). Additionally, I have a keen interest in Machine Learning algorithms and theories.
 
-I earned my Bachelor of Mathematics degree from Northeastern University (China) in 2022. I am currently pursuing a direct Ph.D. at the School of Mathematical Sciences and the Institute of Natural Sciences, Shanghai Jiao Tong University. My research centers on Deep Learning, with a special emphasis on Deep Reinforcement Learning. Additionally, I have a keen interest in Machine Learning algorithms and theories.
 
-
-Homepage
+Other Homepage
 ======
 Welcome to my homepage! I have authored several blogs covering topics in Machine Learning, Reinforcement Learning, and Mathematics, which you can explore on my CSDN profile: [CSDN](https://blog.csdn.net/lvoutongyi?spm=1000.2115.3001.5343). For a comprehensive look at my academic contributions, please visit my Google Scholar profile here: [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=1ZFUKEIAAAAJ). 
 
@@ -21,9 +22,8 @@ Welcome to my homepage! I have authored several blogs covering topics in Machine
 
 Intern
 ======
-1. Baidu (China): During my internship at Baidu (China) in the Knowledge Graph Department, I utilized Reinforcement Learning to fine-tune the ERNIE Model. Additionally, I addressed a large-scale path planning problem, the Capacitated Vehicle Routing Problem (CVRP), using multimodal training with Reinforcement Learning at Baidu.
-
-2. Microsoft Research Asia: I am currently an intern at the AI4Science department of Microsoft Research Asia. My primary focus is on integrating Reinforcement Learning with large language models.
+1. Baidu (China): I utilized Reinforcement Learning to fine-tune the ERNIE Model during my internship at Baidu (China) in the Knowledge Graph Department. Additionally, I addressed a large-scale path planning problem, the Capacitated Vehicle Routing Problem (CVRP), using multimodal training with Reinforcement Learning.
+2. Microsoft Research Asia: I am currently an intern at the Ai4Science department of Microsoft Research Asia. My primary focus is on integrating Reinforcement Learning with Large Language Models (LLM).
 
 
 
@@ -51,13 +51,12 @@ Academic Scholarships and Recognitions:
 
 Publications
 ======
-1. (2024) Lv O, Zhou B, Yang L F. Modeling Bellman Error with Logistic Distribution with Applications in Reinforcement Learning. Available at SSRN 4733708. (Accepted by Neural Networks.) [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4733708)
-2. (2023) Zhou B, Zheng L, Wu B, et al. Protein engineering with lightweight graph denoising neural networks. Journal of Chemical Information and Modeling, 2023. [paper](https://pubs.acs.org/doi/full/10.1021/acs.jcim.4c00036)
-3. (2023) Lv O, Zhou B, Wang J, et al. A unified view on neural message passing with opinion dynamics for social networks. arXiv preprint arXiv:2310.01272, 2023. [paper](https://arxiv.org/abs/2310.01272)
-4. (2023) Zhou B, Lv O, Yi K, et al. Accurate and Definite Mutational Effect Prediction with Lightweight Equivariant Graph Neural Networks. arXiv preprint arXiv:2304.08299, 2023. [paper](https://arxiv.org/abs/2304.08299)
-5. (2022) Zhou B, Lv O, Yi K, et al. Lightweight Equivariant Graph Representation Learning for Protein Engineering. NeurIPS workshop on Machine Learning in Structural Biology, 2022 [paper](https://openreview.net/pdf?id=IWoHx6bY4Zm)
-
-
+1. (2024) Shen Y, Lv O, Zhu H, et al. ProteinEngine: Empower LLM with Domain Knowledge for Protein Engineering. International Conference of Artificial Intelligence in Medicine (AIME 2024) [paper](https://arxiv.org/pdf/2405.06658)
+2. (2024) Lv O, Zhou B, Yang L F. Modeling Bellman-error with logistic distribution with applications in reinforcement learning. Neural Networks, 2024, 177: 106387. [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4733708)
+3. (2023) Zhou B, Zheng L, Wu B, et al. Protein engineering with lightweight graph denoising neural networks. Journal of Chemical Information and Modeling, 2023. [paper](https://pubs.acs.org/doi/full/10.1021/acs.jcim.4c00036)
+4. (2023) Lv O, Zhou B, Wang J, et al. A unified view on neural message passing with opinion dynamics for social networks. arXiv preprint arXiv:2310.01272, 2023. [paper](https://arxiv.org/abs/2310.01272)
+5. (2023) Zhou B, Lv O, Yi K, et al. Accurate and Definite Mutational Effect Prediction with Lightweight Equivariant Graph Neural Networks. arXiv preprint arXiv:2304.08299, 2023. [paper](https://arxiv.org/abs/2304.08299)
+6. (2022) Zhou B, Lv O, Yi K, et al. Lightweight Equivariant Graph Representation Learning for Protein Engineering. NeurIPS workshop on Machine Learning in Structural Biology, 2022 [paper](https://openreview.net/pdf?id=IWoHx6bY4Zm)
 
 
 If you have any questions or require further information, please feel free to contact me via email at: harry_lv@sjtu.edu.cn.

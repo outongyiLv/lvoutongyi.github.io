@@ -20,11 +20,13 @@ Welcome to my homepage! I have authored several blogs covering topics in Machine
 
 
 
-Intern
+Intern for Machine Learning
 ======
-1. Baidu (China): I utilized Reinforcement Learning to fine-tune the ERNIE Model during my internship at Baidu (China) in the Knowledge Graph Department. Additionally, I addressed a large-scale path planning problem, the Capacitated Vehicle Routing Problem (CVRP), using multimodal training with Reinforcement Learning.
-2. Microsoft Research Asia: I am currently an intern at the Ai4Science department of Microsoft Research Asia. My primary focus is on integrating Reinforcement Learning with Large Language Models (LLM).
-
+1. Baidu (China) Knowledge Graph Department :
+  (1)  I utilized Reinforcement Learning to fine-tune the ERNIE Model, I mainly focus on how to fine-tune ENIRE using reinforcement learning based on a user-provided prompt.
+  (2)  I addressed a large-scale path planning problem, mainly focus on the Capacitated Vehicle Routing Problem (CVRP), and using multimodal training with Reinforcement Learning.
+2. Microsoft Research Asia Ai4Science department：
+  (1)  I implemented training and application of the DPO model for additional tasks based on the SFT Llama7B model.
 
 
 Mathematical Modeling and Data Science Competitions
